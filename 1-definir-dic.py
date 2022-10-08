@@ -89,3 +89,6 @@ print('')
 for key in dic2:
     valor = dic2[key]
     print(f'{key} -> {valor}')
+
+""" definir una variable """
+miNombreAngel = 'Angel'
